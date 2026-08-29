@@ -1,0 +1,21 @@
+---
+title: "Emma Zhou"
+image: "me.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/emmazhouu"
+output:
+  postcards::trestles
+---
+
+## About me!
+
+I am a senior Statistics and Data Science major on the pre-dental track. I am from Houston, TX but grew up in New Orleans, LA. I have a little brother named Max, a cat named Claude, and a dog named Gumbo. In my free time I like to go to the gym, read (sometimes), listen to music, and eat out with my friends.
+
+## Some of my favorite songs
+* "Get Free" by Lana Del Rey
+* "I'm on Fire" by Bruce Springsteen
+* "Niagara Falls" by The Weeknd
+
+`r Sys.time()`
+
